@@ -295,6 +295,6 @@ Modern data teams rely on Analytics Engineers to bridge the gap between data eng
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Shruti Bade**    
+**Shriya Bade**    
 📧 Email: shriyabade15@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shriyabade)  
